@@ -1,16 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1906" height="901" alt="E-commerce hero-1" src="https://github.com/user-attachments/assets/85a5a34c-b8af-4e61-a20f-2aa38060d1bb" />
+<img width="1868" height="775" alt="e-commerce-2" src="https://github.com/user-attachments/assets/406b951b-eadd-4a48-befe-309cc14d8fb5" />
+<img width="1912" height="850" alt="e-commerce-3" src="https://github.com/user-attachments/assets/72210fc8-58a7-4e20-a583-f67563dbb8a5" />
+<img width="1917" height="903" alt="e-commerce-product" src="https://github.com/user-attachments/assets/5744d1b4-9ea3-4088-a11d-d464b59a4845" />
